@@ -1,0 +1,3 @@
+Anaglyph,Anaglyph 3D is the stereoscopic 3D effect achieved by means of encoding each eye's image using filters of different (usually chromatically opposite) colors (typically red and cyan).,5,
+Polarized,A polarized 3D system uses polarization glasses to create the illusion of three-dimensional images by restricting the light that reaches each eye (an example of stereoscopy).,10,
+Active Shutter,An active shutter 3D system is a technique of displaying stereoscopic 3D images. It works by only presenting the image intended for the left eye while blocking the right eye's view then switching it up and repeating this rapidly.,12,

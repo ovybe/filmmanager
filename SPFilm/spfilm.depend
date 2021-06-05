@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1622627352 source:d:\p2c\proiectecodeblocks\spfilm\main.cpp
+	<iostream>
+	<cstring>
+	"film.h"
+	<fstream>
+	<conio.h>
+	<cstdlib>
+	"ochelari.h"
+	"liste.h"
+
+1622550382 d:\p2c\proiectecodeblocks\spfilm\film.h
+
+1622555332 d:\p2c\proiectecodeblocks\spfilm\ochelari.h
+
+1622627046 d:\p2c\proiectecodeblocks\spfilm\liste.h
+	"film.h"
+	"film3d.h"
+
+1622550382 d:\p2c\proiectecodeblocks\spfilm\film3d.h
+	"ochelari.h"
+	"film.h"
+
